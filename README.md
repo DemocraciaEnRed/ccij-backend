@@ -1,13 +1,10 @@
 # CCIJ - Backend
 
->Este repositorio arrancó como una copia de DemocraciaEnRed/somosmuchas-activa-back [b191974](https://github.com/DemocraciaEnRed/somosmuchas-activa-back/commit/b191974a06051a2dccfdbdfc9512e2781a4d5bd3
-para iniciar rápidamente:
+>Este repositorio arrancó como una copia de DemocraciaEnRed/somosmuchas-activa-back [b191974](https://github.com/DemocraciaEnRed/somosmuchas-activa-back/commit/b191974a06051a2dccfdbdfc9512e2781a4d5bd3)
+
+Para iniciar rápidamente:
 
 `docker-compose up`
-
-o si docker está apagado:
-
-`systemctl start docker.service && docker-compose up`
 
 ## Backend
 
